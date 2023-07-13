@@ -1,0 +1,2 @@
+$ git remote add amvera https://git.amvera.ru/wanderer/afheb
+$ git push amvera master
